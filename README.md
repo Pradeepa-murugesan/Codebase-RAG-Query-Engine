@@ -58,7 +58,7 @@ sentence-transformers
 
 ---
 
-## ▶Running the App
+## Running the App
 
 Ensure Qdrant is running locally:
 
