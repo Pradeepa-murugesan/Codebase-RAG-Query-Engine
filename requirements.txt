@@ -1,0 +1,7 @@
+langchain
+transformers
+accelerate
+sentence-transformers
+qdrant-client
+langchainhub
+gradio
